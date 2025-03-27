@@ -16,3 +16,10 @@ ollama pull mistral
     Run your script:
 
 python ptpconfig-assists-ollama.py
+
+
+LLaMA 2 model via Ollama instead of Mistral.
+
+✅ Make sure to pull the model first:
+
+ollama pull llama2
