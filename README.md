@@ -15,4 +15,4 @@ ollama pull mistral
 
     Run your script:
 
-python ptp_config_assistant.py
+python ptpconfig-assists-ollama.py
